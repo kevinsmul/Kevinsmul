@@ -1,5 +1,5 @@
 [![Years Badge](https://badges.pufler.dev/years/Kevinsmul)](https://badges.pufler.dev)
-[![Repos Badge](https://badges.pufler.dev/repos/Kevinsmul)](https://badges.pufler.dev)
+[![Commits Badge](https://badges.pufler.dev/commits/monthly/Kevinsmul)](https://badges.pufler.dev)
 
 ### Hi there 👋
 
@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 
 ### Connect with me:
 
-[<img align="left" alt="KevinSmulders.nl" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="KevinSmulders | Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Kevin Smulders | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
