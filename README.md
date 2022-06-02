@@ -3,7 +3,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on: school projects and my start up company
-- 📫 How to reach me: mail@kevinsmulders.nl
+- 📫 How to reach me: smulders.kevin.1999@gmail.com
 
 ### Connect with me:
 
