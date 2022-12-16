@@ -9,7 +9,7 @@ git config --edit --global
 
 ### [alias]
 -  ac = !git add -A && git commit -m
--  acp = !git add -A && git commit -m "quikfix-test" && git push
+-  acp = !git add -A && git commit -am "$1" && git push'
 -  lg = !git log --pretty=format:\"%C(magenta)%h%Creset -%C(red)%d%Creset %s %C(dim green)(%cr) [%an]\" --abbrev-commit -10
 -  lb = "!git for-each-ref --sort='-authordate' --format='%(authordate)%09%(objectname:short)%09%(refname)' refs/heads | sed -e 's-refs/heads/--'"
 -  main = !git checkout main && git pull origin 
